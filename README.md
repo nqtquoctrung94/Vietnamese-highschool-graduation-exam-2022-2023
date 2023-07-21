@@ -1,6 +1,6 @@
 # Vietnamese high school graduation exam 2022-2023
 
-In Vietnam, at the end of grade 12, students have to take the High School Graduation Examination (HSGE). The exam took place on June 27-30.
+In Vietnam, at the end of grade 12, students have to take the High School Graduation Examination (HSGE). The exam took place on June 27-30 2023.
 
 The dataset consist of score result of over 1 million students in 63 provinces and cities across the country.
 
